@@ -1,0 +1,83 @@
+[
+    {
+        "tag": "dimiCheck",
+        "name": "Dimi Check",
+        "explane": "학생증을 이용한 디미고 자습 감독 시스템",
+        "date": "2022. 05.",
+        "star": "6",
+        "background": "./file/projects/dimixyz.png",
+        "link": "https://github.com/jeamin-0927/DimiCheck"
+    },
+    {
+        "tag": "dimimonster",
+        "name": "디미몬스터",
+        "explane": "디미충이 출연한 긴급상황을 위한 커뮤니티",
+        "date": "2022. 04.",
+        "star": "4",
+        "background": "./file/projects/dimimonster.png",
+        "link": "https://dimi.monster/"
+    },
+    {
+        "tag": "lod",
+        "name": "League Of Dimi",
+        "explane": "디미고 1학년 6반만의 인트라넷",
+        "date": "2022. 04.",
+        "star": "5",
+        "background": "./file/projects/lod.png",
+        "link": "https://github.com/jeamin-0927/LeagueOfDimi"
+    },
+    {
+        "tag": "yonghointra",
+        "name": "용호중학교 인트라넷",
+        "explane": "용호중학교 학생들을 위한 인트라넷",
+        "date": "2021. 09.",
+        "star": "4",
+        "background": "./file/projects/yongho.png",
+        "link": "https://github.com/jeamin-0927/Yongho-Intranet"
+    },
+    {
+        "tag": "yunarchi",
+        "name": "D.G. YUN-ARCHITECTS",
+        "explane": "디자인그룹 윤 건축사사무소 회사 홈페이지",
+        "date": "2021. 05.",
+        "star": "3",
+        "background": "./file/projects/yunarchi.png",
+        "link": "https://yun-architects.com/"
+    },
+    {
+        "tag": "teamsc",
+        "name": "팀즈 글자 인식 출석 체크",
+        "explane": "인공지능을 활용한 글자 인식 출석 체크 프로그램",
+        "date": "2020. 10.",
+        "star": "2",
+        "background": "./file/projects/teamsc.png",
+        "link": "https://chicken-moo.com/.old/programs/upgrade_chu/"
+    },
+    {
+        "tag": "yhms",
+        "name": "YHMS 타임테이블",
+        "explane": "코로나19 사태로 인한 원격 수업 대비 시간표 및 수업 연결 프로그램",
+        "date": "2020. 05.",
+        "star": "3",
+        "background": "./file/projects/yhms.png",
+        "link": "https://chicken-moo.com/.old/yhms/"
+    },
+    {
+        "tag": "yeelsam",
+        "name": "Yeelsam",
+        "explane": "용호중 1학년 3반 학급 홈페이지 개발",
+        "date": "2019. 12.",
+        "star": "0",
+        "background": "./file/projects/yeelsam.png",
+        "link": "https://chicken-moo.com/.old/web/yhms/yeelsam/index.html"
+    },
+    {
+        "tag": "",
+        "name": "",
+        "explane": "",
+        "date": "",
+        "star": "",
+        "background": "",
+        "link": ""
+    }
+]
