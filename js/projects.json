@@ -15,7 +15,7 @@
         "date": "2022. 04.",
         "star": "4",
         "background": "./file/projects/dimimonster.png",
-        "link": "https://dimi.monster/"
+        "link": "https://github.com/potato179/dimi.monster"
     },
     {
         "tag": "lod",
@@ -42,7 +42,7 @@
         "date": "2021. 05.",
         "star": "3",
         "background": "./file/projects/yunarchi.png",
-        "link": "https://yun-architects.com/"
+        "link": "https://github.com/jeamin-0927/YunArchi-hompage"
     },
     {
         "tag": "teamsc",
@@ -60,7 +60,7 @@
         "date": "2020. 05.",
         "star": "3",
         "background": "./file/projects/yhms.png",
-        "link": "https://chicken-moo.com/.old/yhms/"
+        "link": "https://github.com/jeamin-0927/YHMS-TimeTable"
     },
     {
         "tag": "yeelsam",
